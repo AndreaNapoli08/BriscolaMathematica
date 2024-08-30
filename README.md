@@ -12,40 +12,35 @@ Questo progetto replica il gioco della Briscola in Mathematica, offrendo un'espe
 	<summary>Alcune immagini del gioco</summary>
 	<table style="text-align: center;">
 		<tr>
-			<td>Home Light and Dark Mode</td>
-			<td>Login / Sign up</td>
+			<td>Scelta della partita</td>
+			<td>Scelta dei nomi</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="images/home/principale.jpg" alt="Home" width="45%" hspace="10">
-				<img src="images/home/darkMode.jpg" alt="Home Dark" width="45%">
+				<img src="images/seed.png" alt="seed" width="45%">
 			</td>
 			<td>
-				<img src="images/login/login.jpg" alt="Login" width="45%" hspace="10">
-				<img src="images/login/register.jpg" alt="Sign up" width="45%">
+				<img src="images/scelta_nomi.png" alt="nomi" width="45%">
 			</td>
 		</tr>
 		<tr>
-			<td>Chat Tab</td>
-			<td>Friends Tab</td>
+			<td>Tavolo da gioco</td>
+			<td>Mano vinta</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="images/chats/principale.jpg" alt="Chats" width="45%" hspace="10">
-				<img src="images/chats/singleChat.jpg" alt="Single Chat" width="45%">
+				<img src="images/tavolo.png" alt="tavolo" width="100%">
 			</td>
 			<td>
-				<img src="images/friends/friends.jpg" alt="Friends" width="45%" hspace="10">
-				<img src="images/friends/sended.jpg" alt="Friends sended" width="45%">
+				<img src="images/mano_vinta.png" alt="mano" width="100%">
 			</td>
 		</tr>
 		<tr>
-			<td>Map Tab</td>
+			<td>Fine della partita</td>
 		</tr>
 		<tr>
 			<td>
-				<img src="images/map/principale.jpg" alt="Map" width="45%" hspace="10">
-				<img src="images/map/friendsMap.jpg" alt="Friends Map"width="45%">
+				<img src="images/fine.png" alt="fine" width="100%">
 			</td>
 		</tr>
 	</table>
